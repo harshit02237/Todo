@@ -1,0 +1,21 @@
+body {
+
+}
+.kg-row {
+  margin: 9px 5px;
+}
+
+.kg-button {
+  min-width: 80px;
+  border: 2px;
+  border-radius: 10px;
+}
+
+input {
+  width: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+  text-align: left;
+}
